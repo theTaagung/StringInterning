@@ -1,0 +1,7 @@
+D:\Practices\StringInterning\StringInterning\bin\Debug\StringInterning.exe.config
+D:\Practices\StringInterning\StringInterning\bin\Debug\StringInterning.exe
+D:\Practices\StringInterning\StringInterning\bin\Debug\StringInterning.pdb
+D:\Practices\StringInterning\StringInterning\obj\Debug\StringInterning.csprojAssemblyReference.cache
+D:\Practices\StringInterning\StringInterning\obj\Debug\StringInterning.csproj.CoreCompileInputs.cache
+D:\Practices\StringInterning\StringInterning\obj\Debug\StringInterning.exe
+D:\Practices\StringInterning\StringInterning\obj\Debug\StringInterning.pdb
